@@ -1,2 +1,2 @@
 # Teacher
-This code is generated from local system
+This code is generated from local system.
